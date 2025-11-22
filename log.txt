@@ -1,3 +1,4 @@
+49112cd Completed Task 2.1
 9946732 Completed Task 1.2
 7815859 Completed Task 1.1
 9d02daa Initial commit
